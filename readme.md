@@ -2,7 +2,7 @@
 
 ## Artigos
 
-__Loop through a collection of DOM elements__
+[__Loop through a collection of DOM elements__](https://pawelgrzybek.com/loop-through-a-collection-of-dom-elements/)
 Várias alternativas de loop para elementos do DOM
 
 ## Vídeos
