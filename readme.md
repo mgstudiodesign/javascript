@@ -7,7 +7,7 @@
     * [__pt. 1__](https://braziljs.org/blog/react-do-basico-ao-avancado-parte-1/)
     * [__pt. 2__](https://braziljs.org/blog/react-do-basico-ao-avancado-parte2/)
     * [__pt. 3__](https://braziljs.org/blog/react-do-basico-ao-avancado-parte-3/)
-* [__Formulário de comentários com exemplo de _progressive enhancement_ __](https://justmarkup.com/log/2016/10/enhancing-a-comment-form/)
+* [__Formulário de comentários com exemplo de progressive enhancement__](https://justmarkup.com/log/2016/10/enhancing-a-comment-form/)
 
 ## Vídeos
 
